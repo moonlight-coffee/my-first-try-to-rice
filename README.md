@@ -15,6 +15,7 @@
     	<img src="https://img.shields.io/github/license/NickDonnOS/my-first-try-to-rice?colorA=0f0f17&colorB=%23d78787&style=for-the-badge&logoColor=white">
     </a>
 </div>
+![Screenshot_2022-01-12-15_]()
 
 <h3 align="center">
 <img src="git-hub/leoveska-colors/flamingo.png" height="32" width="32"/>    <img src="git-hub/leoveska-colors/mauve.png" height="32" width="32"/>    <img src="git-hub/leoveska-colors/pink.png" height="32" width="32"/>    <img src="git-hub/leoveska-colors/maroon.png" height="32" width="32"/>    <img src="git-hub/leoveska-colors/red.png" height="32" width="32"/>    <img src="git-hub/leoveska-colors/peach.png" height="32" width="32"/>    <img src="git-hub/leoveska-colors/yellow.png" height="32" width="32"/>    <img src="git-hub/leoveska-colors/green.png" height="32" width="32"/>    <img src="git-hub/leoveska-colors/teal.png" height="32" width="32"/>    <img src="git-hub/leoveska-colors/blue.png" height="32" width="32"/>    <img src="git-hub/leoveska-colors/sky.png" height="32" width="32"/></h3>
@@ -27,7 +28,7 @@
 Levuaska, is a **WIP** dark color scheme that I made for fun, its heavily inspired by [catppuccin](https://github.com/catppuccin/catppuccin). and idk what else to say...
 	
 <p align="center">
-	<img src="git-hub//lev_preview.png" alt="ss_preview" align="right" width="350px">
+	<img src="https://user-images.githubusercontent.com/95079552/153936713-f4008b8f-a3ff-49ea-84ae-34eafa82a36f.png" alt="ss_preview" align="right" width="350px">
 	</p>
 	
 **important things~**
