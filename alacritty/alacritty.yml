@@ -1,37 +1,89 @@
-# Catppuccin!
-colors:
-  # Default colors
-  primary:
-    background: '0x1E1D2F'
-    foreground: '0xD9E0EE'
+## Import files (Colors,Etc)
+import:
+  - ~/.config/alacritty/aesthetic/colors.yml
 
-  # Colors the cursor will use if `custom_cursor_colors` is true
-  cursor:
-    text: '0x1E1D2F'
-    cursor: '0xF5E0DC'
+## Set environment variables
+env:
+  TERM: alacritty
+  WINIT_X11_SCALE_FACTOR: '1.0'
 
-  # Normal colors
+## Font
+font:
   normal:
-    black:   '0x6E6C7E'
-    red:     '0xF28FAD'
-    green:   '0xABE9B3'
-    yellow:  '0xFAE3B0'
-    blue:    '0x96CDFB'
-    magenta: '0xF5C2E7'
-    cyan:    '0x89DCEB'
-    white:   '0xD9E0EE'
+    family: Iosevka
+    style: Medium
 
-  # Bright colors
-  bright:
-    black:   '0x988BA2'
-    red:     '0xF28FAD'
-    green:   '0xABE9B3'
-    yellow:  '0xFAE3B0'
-    blue:    '0x96CDFB'
-    magenta: '0xF5C2E7'
-    cyan:    '0x89DCEB'
-    white:   '0xD9E0EE'
+  bold:
+    family: Iosevka
+    style: Bold
 
-  indexed_colors:
-    - { index: 16, color: '0xF8BD96' }
-    - { index: 17, color: '0xF5E0DC' }
+  italic:
+    family: Iosevka
+    style: Italic
+
+  bold_italic:
+    family: Iosevka
+    style: Bold Italic
+
+  size: 15
+
+  offset:
+    x: 0
+    y: 0
+
+  glyph_offset:
+    x: 0
+    y: 0
+
+draw_bold_text_with_bright_colors: true
+
+## Terminal window settings
+window:
+  opacity: 1.0
+  padding:
+    x: 20
+    y: 20
+
+  dynamic_padding: true
+  decorations: full
+  startup_mode: Windowed
+  dynamic_title: true
+  title: Alacritty
+
+## Live config reload
+live_config_reload: true
+
+class:
+  instance: Alacritty
+  general: Alacritty
+
+## Scroll
+scrolling:
+  history: 10000
+
+# Visual
+visual_bell:
+  animation: EaseOutExpo
+  duration: 0.5
+  color: "#ffffff"
+
+##Selection
+selection:
+  semantic_escape_chars: ",│`|:\"' ()[]{}<>\t"
+  save_to_clipboard: true
+
+## Cs
+cursor:
+  style: 'Underline'
+  thickness: 0.20
+
+## Shell
+shell:
+  program: /usr/bin/zsh
+
+## Mouse
+mouse:
+  double_click: { threshold: 300 }
+  triple_click: { threshold: 300 }
+
+  hide_when_typing: true
