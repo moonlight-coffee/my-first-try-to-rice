@@ -1,0 +1,12 @@
+feb 11 21:29 : exception: inotify_add_watch() has failed: No such file or directory
+feb 11 21:29 : exception: Failed to access /home/nicu/Music: No such file or directory
+feb 11 22:09 : exception: inotify_add_watch() has failed: No such file or directory
+feb 12 09:29 : exception: inotify_add_watch() has failed: No such file or directory
+feb 12 13:59 : exception: inotify_add_watch() has failed: No such file or directory
+feb 12 13:59 : exception: inotify_add_watch() has failed: No such file or directory
+feb 12 14:11 : exception: inotify_add_watch() has failed: No such file or directory
+feb 12 14:15 : exception: inotify_add_watch() has failed: No such file or directory
+feb 12 14:16 : exception: inotify_add_watch() has failed: No such file or directory
+feb 12 14:20 : exception: inotify_add_watch() has failed: No such file or directory
+feb 12 14:21 : exception: inotify_add_watch() has failed: No such file or directory
+feb 12 14:24 : exception: inotify_add_watch() has failed: No such file or directory
