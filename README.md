@@ -19,7 +19,7 @@
     </a>
 </div>
 	
-	
+
 
 
 ### hey! thanks for dropping by 
@@ -31,7 +31,7 @@ hope you like it ^^
 
 	
 <p align="center">
-	<img src="https://user-images.githubusercontent.com/95079552/153936713-f4008b8f-a3ff-49ea-84ae-34eafa82a36f.png" alt="ss_preview" align="right" width="450px">
+	<img src="https://user-images.githubusercontent.com/72156551/154124275-9f96db2c-7cbe-4c5f-94d8-f4369e38d5f4.png" alt="ss_preview" align="right" width="450px">
 	</p>
 	
 **important things~**
