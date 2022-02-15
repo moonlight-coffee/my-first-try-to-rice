@@ -46,4 +46,5 @@ hope you like it ^^
 
 <!-- ## Screenshots 🖼️ -->
 
-## credits 
+## credits
+saimmomedits - https://github.com/saimoomedits
