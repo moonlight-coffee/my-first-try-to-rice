@@ -38,7 +38,7 @@ hope you like it ^^
 	
 - **OS** : Arch 🤓 
 - **WM** : BSPWM 🪟 
-- **COLOR** : toky-night 🖌️ 
+- **COLOR** : twilight 🖌️ 
 - **GTK-THEME** : tokyo-night ⛰️ 
 - **FILE-BROWSER** : thunar 🦾 
 - **MUSIC-PLAYER** : [mpd](https://www.musicpd.org/) 🎵
@@ -46,4 +46,4 @@ hope you like it ^^
 
 <!-- ## Screenshots 🖼️ -->
 
-## credits
+## credits 
