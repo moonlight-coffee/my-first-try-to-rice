@@ -1,21 +1,21 @@
 <h3 align="center">
-	<img src="https://user-images.githubusercontent.com/95079552/153937643-2324a0b2-305a-4acd-86ec-70f78f858e2b.jpg"  height="240" alt="header"/><br/></h3>
+	<img src="https://github.com/moonlight-coffee.png"  height="240" alt="header"/><br/></h3>
 
 <h2 align="center"> ~ NickDonnOS's dotfiles ~ </h2>
 
 
 <div align="center">
     <p></p>
-    <a href="https://github.com/NickDonnOS/my-first-try-to-rice/stargazers">
-        <img src="https://img.shields.io/github/stars/NickDonnOS/my-first-try-to-rice?colorA=1a1b26&colorB=bb9af7&style=for-the-badge">
+    <a href="https://github.com/moonlight-coffe/my-first-try-to-rice/stargazers">
+        <img src="https://img.shields.io/github/stars/moonlight-coffee/my-first-try-to-rice?colorA=141414&colorB=bb9af7&style=for-the-badge">
     </a>
-    <a href="https://github.com/NickDonnOS/my-first-try-to-rice/network/members/">
-        <img src="https://badges.pufler.dev/updated/NickDonnOS/my-first-try-to-rice?style=for-the-badge&color=e0af68&logoColor=white&labelColor=1a1b26">
-    <a href="https://github.com/NickDonnOS/my-first-try-to-rice">
-    	<img src="https://img.shields.io/github/repo-size/NickDonnOS/my-first-try-to-rice?colorA=1a1b26&colorB=7dcfff&label=size&style=for-the-badge">
+    <a href="https://github.com/moonlight-coffee/my-first-try-to-rice/network/members/">
+        <img src="https://badges.pufler.dev/updated/moonlight-coffee/my-first-try-to-rice?style=for-the-badge&color=141414&logoColor=white&labelColor=d0dc8e">
+    <a href="https://github.com/moonlight-coffe/my-first-try-to-rice">
+    	<img src="https://img.shields.io/github/repo-size/moonlight-coffee/my-first-try-to-rice?colorA=141414&colorB=e2c47e&label=size&style=for-the-badge">
     </a>
     <a href="https://github.com/saimoomedits/levuaska/blob/main/LICENSE">
-    	<img src="https://img.shields.io/github/license/NickDonnOS/my-first-try-to-rice?colorA=1a1b26&colorB=f7768e&style=for-the-badge&logoColor=white">
+    	<img src="https://img.shields.io/github/license/moonlight-coffee/my-first-try-to-rice?colorA=141414&colorB=c06d44&style=for-the-badge&logoColor=white">
     </a>
 </div>
 	
